@@ -1,6 +1,6 @@
 # custom-themes
 
-This repository is for creating custom themes for the Kettu and Rain Discord client mods. It is intended for theme files, styling customizations, and visual designs made for those clients.
+This repository is for the custom themes i made for the Kettu/Rain Discord client mods whether they're personal or for community use. It is intended for theme files, styling customizations, and visual designs made for those clients.
 
 Important notice:
 The background images used in this project are not my own. They are sourced from Pinterest and other applications. I do not claim ownership of these images, and all rights belong to their original creators and sources.
