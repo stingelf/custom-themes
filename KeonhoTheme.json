@@ -433,8 +433,8 @@
     }
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/stingelf/custom-themes/refs/heads/backgrounds/bee60d6e33aae63ae00e0147384d8085.jpg",
-    "alpha": 0.60,
-    "blur": 5
+    "url": "https://raw.githubusercontent.com/stingelf/custom-themes/refs/heads/backgrounds/cab3b930c2df52da8101448a21b2bac7.jpg",
+    "alpha": 0.5,
+    "blur": 0.15
   }
 }
